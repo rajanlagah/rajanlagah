@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Solidity, Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://rajanlagah.netlify.app/](https://rajanlagah.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rajanlagah.vercel.app/](https://rajanlagah.vercel.app/)
 
 - 📝 I regularly write articles on [https://rj-docs.vercel.app/](https://rj-docs.vercel.app/)
 
