@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/f44f2482ffa09c1d812a2103a1a6f0d3/a5b3c7afe34c35bf-fb/s1280x1920/2dfc2c67d2bd1d34405802ab1e67b1bee99dec01.gif))](https://rajanlagah.netlify.app/)
+[![MasterHead](https://64.media.tumblr.com/f44f2482ffa09c1d812a2103a1a6f0d3/a5b3c7afe34c35bf-fb/s1280x1920/2dfc2c67d2bd1d34405802ab1e67b1bee99dec01.gif))](https://rajanlagah.vercel.app/)
 <h1 align="center">Hi 👋, I'm Rajan</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -10,11 +10,11 @@
 
 - 📝 I regularly write articles on [https://rj-docs.vercel.app/](https://rj-docs.vercel.app/)
 
-- 💬 Ask me about **React, Nextjs, Expressjs, Solidity, Redux**
+- 💬 Ask me about **Reactjs, Nodejs, Nextjs, Expressjs, Solidity, Redux**
 
 - 📫 How to reach me **rajanlagah@gmail.com**
 
-- 📄 Know about my experiences [https://rajanlagah.netlify.app/RajanSDE2Resume.pdf](https://rajanlagah.netlify.app/RajanSDE2Resume.pdf)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rajan-lagah](https://www.linkedin.com/in/rajan-lagah/)
 
 - ⚡ Fun fact **Sometime I sleep in working hours.**
 
